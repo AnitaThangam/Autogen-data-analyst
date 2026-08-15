@@ -75,3 +75,22 @@ Business Intelligence
 ## 🔐 Security
 
 API keys are stored locally using environment variables and are not included in the repository.
+
+## 🖥️ Application Screenshots
+
+### 📊 Dashboard
+
+![Dashboard](screenshots/Dashboard.png)
+
+
+### 🧪 Data Quality Analysis
+
+![Data Quality](screenshots/Data Quality Analysis.png)
+
+### 🧹 Natural Language Data Cleaning
+
+![Data Cleaning](screenshots/Natural Language Cleaning.png)
+
+### 🤖 AI Data Analysis
+
+![AI Analysis](screenshots/AI Analysis.png)
