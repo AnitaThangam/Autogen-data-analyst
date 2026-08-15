@@ -37,24 +37,26 @@ The project combines traditional data analytics with Generative AI to help users
 
 ## 🏗️ Project Architecture
 
-CSV / Excel
-     ↓
+```text
+CSV / Excel Dataset
+        ↓
 Streamlit Application
-     ↓
-Data Profiling & Quality Analysis
-     ↓
-Natural Language Processing
-     ↓
-Groq + AutoGen
-     ↓
-SQL Generation
-     ↓
-SQLite
-     ↓
-Analysis Results
-     ↓
-Visualization + Business Insights
-
+        ↓
+Data Profiling & Quality Checks
+        ↓
+Pandas Data Processing
+        ↓
+Natural Language Query
+        ↓
+Groq LLM + AutoGen
+        ↓
+SQL Query Generation
+        ↓
+SQLite / Data Analysis
+        ↓
+Results & Visualizations
+        ↓
+AI-Powered Business Insights
 ## 🎯 Learning Outcomes
 
 This project demonstrates practical experience in:
