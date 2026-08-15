@@ -94,5 +94,61 @@ API keys are stored locally using environment variables and are not included in 
 
 ![AI Data Analysis](AI%20Analysis.png)
 
+## ▶️ How to Run
 
-![AI Analysis](screenshots/AI Analysis.png)
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/AnitaThangam/autogen-data-analyst.git
+cd autogen-data-analyst
+```
+
+### 2. Create a Virtual Environment
+
+```bash
+python -m venv .venv
+```
+
+Activate it on Windows:
+
+```bash
+.venv\Scripts\activate
+```
+
+### 3. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Configure the API Key
+
+Create a `.env` file in the project directory:
+
+```text
+GROQ_API_KEY=your_groq_api_key
+```
+
+Replace `your_groq_api_key` with your own Groq API key.
+
+**Never upload the `.env` file or your API key to GitHub.**
+
+### 5. Run the Application
+
+```bash
+python -m streamlit run app.py
+```
+
+The application will open in your browser.
+
+### 6. Upload a Dataset
+
+Upload a CSV or Excel file and use the available features for:
+
+* Data profiling
+* Data quality analysis
+* Outlier detection
+* Natural language data cleaning
+* Natural language data analysis
+* AI-powered insights
+
