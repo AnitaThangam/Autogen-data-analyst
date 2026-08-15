@@ -82,13 +82,17 @@ API keys are stored locally using environment variables and are not included in 
 
 ![Dashboard](screenshots/Dashboard.png)
 
-
 ### 🧪 Data Quality Analysis
 
-![Data Quality](screenshots/Data Quality Analysis.png)
+![Data Quality](screenshots/Data%20Quality%20Analysis.png)
 
 ### 🧹 Natural Language Data Cleaning
 
+![Data Cleaning](screenshots/Natural%20Language%20Cleaning.png)
+
+### 🤖 AI Data Analysis
+
+![AI Analysis](screenshots/AI%20Analysis.png)
 ![Data Cleaning](screenshots/Natural Language Cleaning.png)
 
 ### 🤖 AI Data Analysis
