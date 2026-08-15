@@ -80,19 +80,19 @@ API keys are stored locally using environment variables and are not included in 
 
 ### 📊 Dashboard
 
-![Dashboard](screenshots/Dashboard.png)
+[Dashboard](screenshots/Dashboard.png)
 
 ### 🧪 Data Quality Analysis
 
-![Data Quality Analysis](screenshots/Data%20Quality%20Analysis.png)
+[Data Quality Analysis](screenshots/Data%20Quality%20Analysis.png)
 
 ### 🧹 Natural Language Data Cleaning
 
-![Natural Language Data Cleaning](screenshots/Natural%20Language%20Cleaning.png)
+[Natural Language Data Cleaning](screenshots/Natural%20Language%20Cleaning.png)
 
 ### 🤖 AI Data Analysis
 
-![AI Data Analysis](screenshots/AI%20Analysis.png)
+[AI Data Analysis](screenshots/AI%20Analysis.png)
 ### 🤖 AI Data Analysis
 
 ![AI Analysis](screenshots/AI Analysis.png)
