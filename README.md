@@ -156,3 +156,16 @@ Upload a CSV or Excel file and use the available features for:
 * Natural language data analysis
 * AI-powered insights
 
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|---|---|
+| Programming | Python |
+| Data Analysis | Pandas, NumPy |
+| Database | SQLite, SQL |
+| Visualization | Matplotlib |
+| Web Framework | Streamlit |
+| Generative AI | Groq LLM, AutoGen |
+| Data Processing | CSV, Excel, OpenPyXL |
+| Environment | Python Virtual Environment |
+| Testing | Python Testing Scripts |
