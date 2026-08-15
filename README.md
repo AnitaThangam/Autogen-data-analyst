@@ -57,6 +57,8 @@ SQLite / Data Analysis
 Results & Visualizations
         ↓
 AI-Powered Business Insights
+
+
 ## 🎯 Learning Outcomes
 
 This project demonstrates practical experience in:
