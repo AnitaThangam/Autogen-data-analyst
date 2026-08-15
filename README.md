@@ -57,7 +57,7 @@ SQLite / Data Analysis
 Results & Visualizations
         ↓
 AI-Powered Business Insights
-```text
+```
 
 ## 🎯 Learning Outcomes
 
